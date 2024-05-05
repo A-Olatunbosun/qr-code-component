@@ -23,8 +23,7 @@ The challenge is to build out this QR code component and get it looking as close
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click to view Live site](https://cosmic-douhua-e84fea.netlify.app/)
 
 ## My process
 
@@ -36,5 +35,5 @@ The challenge is to build out this QR code component and get it looking as close
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/A-Olatunbosun)
+- Frontend Mentor - [@A-Olatunbosun](https://www.frontendmentor.io/profile/A-Olatunbosun)
 - Twitter - [@OlaTunBozz](https://twitter.com/OlaTunBozz)
